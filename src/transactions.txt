@@ -1,0 +1,8 @@
+CODE1001 | Deposit | ₹50000.00 | New Balance: ₹55000.00 | Tue Jun 17 23:26:33 IST 2025
+CODE1001 | Withdraw | ₹10000.00 | New Balance: ₹0.00 | Tue Jun 17 23:38:03 IST 2025
+CODE1001 | Deposit | ₹5000.00 | New Balance: ₹30000.00 | Tue Jun 17 23:43:31 IST 2025
+CODE1001 | Deposit | ₹5000.00 | New Balance: ₹30000.00 | Tue Jun 17 23:43:31 IST 2025
+CODE1001 | Deposit | ₹5000.00 | New Balance: ₹30000.00 | Tue Jun 17 23:43:31 IST 2025
+CODE1001 | Deposit | ₹5000.00 | New Balance: ₹30000.00 | Tue Jun 17 23:43:31 IST 2025
+CODE1001 | Deposit | ₹5000.00 | New Balance: ₹30000.00 | Tue Jun 17 23:43:31 IST 2025
+CODE1001 | Deposit | ₹5000.00 | New Balance: ₹30000.00 | Tue Jun 17 23:43:31 IST 2025
